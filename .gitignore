@@ -1,0 +1,5 @@
+.DS_Store
+# Fotos originales (no se usan en la página; solo assets/cut/ se publica)
+assets/*.jpeg
+assets/*.jpg
+assets/photos/
